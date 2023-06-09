@@ -900,6 +900,6 @@ body{
 .modal-checkbox:checked + .modal-lbl > .modal-checkbox-span{
     background-color: #404bbf;
     border: none;
-    fill: #ffffff;
+    fill: var(--fourth-color);
     border-color: #404bbf;
 }
